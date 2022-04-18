@@ -17,7 +17,10 @@
 
 ### 📊 &nbsp;Projects
 - **[Data Science Practices](https://github.com/EmersonVeras/dataScience)**
-  - Practices of data analyses, modelling and ML algorithms.
+  - Practices of data analysis, modelling and ML algorithms.
+- **[Cognitive Computing](https://github.com/EmersonVeras/CognitiveComputing)**
+  - Data analysis, understanding and modeling of a dataset with 10.000 tweets to identify the relationship of tweets with disastrous and non-disastrous events.
+
 
 ### :mailbox: How to reach me:
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-dias-7816181a1/)
