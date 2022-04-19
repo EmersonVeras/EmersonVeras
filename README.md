@@ -21,7 +21,9 @@
 - **[Disasters On Social Media](https://github.com/EmersonVeras/CognitiveComputing/tree/main/NLP/trailhead/codes)**
   - Data analysis, understanding and modeling of a dataset with 10.000 tweets to identify the relationship of tweets with disastrous and non-disastrous events.
   - NLP technics.
-
+- **[Sentimental analysis with NLTK](https://github.com/EmersonVeras/CognitiveComputing/tree/main/NLP/trailhead/codes/Sentiment_analysis_NLTK)**
+  - NLTK to tokenize, normalize and remove noise the dataset.
+  - In this practice was used Naive Bayes to classify tweets as positive or negative.
 
 ### :mailbox: How to reach me:
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-dias-7816181a1/)
