@@ -18,8 +18,9 @@
 ### 📊 &nbsp;Projects
 - **[Data Science Practices](https://github.com/EmersonVeras/dataScience)**
   - Practices of data analysis, modelling and ML algorithms.
-- **[Cognitive Computing](https://github.com/EmersonVeras/CognitiveComputing)**
+- **[Disasters On Social Media](https://github.com/EmersonVeras/CognitiveComputing/tree/main/NLP/trailhead/codes)**
   - Data analysis, understanding and modeling of a dataset with 10.000 tweets to identify the relationship of tweets with disastrous and non-disastrous events.
+  - NLP technics.
 
 
 ### :mailbox: How to reach me:
