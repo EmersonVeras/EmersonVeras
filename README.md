@@ -24,7 +24,10 @@
 - **[Sentimental analysis with NLTK](https://github.com/EmersonVeras/CognitiveComputing/tree/main/NLP/trailhead/codes/Sentiment_analysis_NLTK)**
   - NLTK to tokenize, normalize and remove noise the dataset.
   - In this practice was used Naive Bayes to classify tweets as positive or negative.
-
+- **[Identifying Relevant Terms in Medical Records](https://github.com/EmersonVeras/identifyMostRelevantTerms)**
+  - NLTK to tokenize, normalize and remove noise the dataset.
+  - Lemmatization and calculate metrics of words appearance.
+  - Word Cloud to analyze the results.
 ### :mailbox: How to reach me:
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-dias-7816181a1/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-dias-/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersonverasifce@gmail.com)
