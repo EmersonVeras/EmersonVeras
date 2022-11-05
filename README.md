@@ -1,6 +1,6 @@
 ### Hi there! My name is Emerson Veras 👋
 
-- 🔭 I'm currently working at **[Sangati Berga](https://www.sangatiberga.com.br/)**  
+- 🔭 I'm currently working at **[LienTech](https://lientech.com.br/)**  
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about Python
 - 😄 Pronouns: he/him
