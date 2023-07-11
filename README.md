@@ -1,8 +1,8 @@
 ### Hi there! My name is Emerson Veras 👋
 
-- 🔭 I'm currently working at **[LienTech](https://lientech.com.br/)**  
-- 🌱 I’m currently learning Machine Learning
-- 💬 Ask me about Python
+- 🔭 I'm currently working at **[WebHouse](https://www.webhouse.pt/)**  
+- 🌱 I’m currently learning .NET
+- 💬 Ask me about Backend
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I don't sleep !!!
 
