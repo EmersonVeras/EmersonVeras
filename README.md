@@ -1,7 +1,7 @@
 ### Hi there! My name is Emerson Veras 👋
 
 - 🔭 I'm currently working at **[Power.Rent](https://power.rent/)**  
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning Microservices
 - 💬 Ask me about Backend
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I don't sleep !!!
