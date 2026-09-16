@@ -1,10 +1,9 @@
 ### Hi there! My name is Emerson Veras 👋
 
-- 🔭 I'm currently working at **[CATSKILLET](https://catskillet.com/)**  
-- 🌱 I’m currently learning Microservices
+- 🔭 I'm currently working at **[OPENHEALTH](https://www.open-health.app)**  
+- 🌱 I’m currently learning AI
 - 💬 Ask me about Backend
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I don't sleep !!!
+- ⚡ Fun fact: I do crossfit !!!
 
 
 ### 🔎 &nbsp;Main Skills
